@@ -18,7 +18,7 @@ The log is intended to grow over time. New entries are added as research is comp
  
 | Year | Title | Topics covered |
 |---|---|---|
-| 2026 | [Privacy & AI in Canada >>](https://docs.google.com/document/d/1DWDYoxIjVvKvzhdbXBaelxmrWmXOZjGirhyDW7g-5kk/edit?usp=sharing) | • Private-sector privacy regime: PIPEDA, Quebec Law 25, Alberta and BC PIPAs <br>• Consent, collection, retention, and breach response <br>• Individual rights, including automated-decision rights under Bill 64 <br>• OPC investigations: Clearview AI, Cadillac Fairview, RCMP <br>• Reflection on dignity, identity, and public trust |
+| 2026 | [Privacy & AI in Canada >>](https://docs.google.com/document/d/1DWDYoxIjVvKvzhdbXBaelxmrWmXOZjGirhyDW7g-5kk/edit?usp=sharing) | • Private-sector privacy regime: PIPEDA, Quebec Law 25, Alberta and BC PIPAs <br>• Consent, collection, retention, and breach response <br>• Individual rights, including automated-decision rights under Bill 64 <br>• OPC investigations: Clearview AI, Cadillac Fairview, RCMP <br>• Reflection on dignity, identity, and public trust <br>• Power BI clustered bar chart comparing AI use by sector |
 | 2026 | [Canada's Privacy Regulatory Landscape >>](https://docs.google.com/document/d/1qsyQSUiwiUmtIhLiPvUZ-IjhBFIHsK0PJcii7J805Ps/edit?usp=sharing) | • The Privacy Act and federal-institution obligations <br>• PIPEDA in the private sector <br>• AIDA, Bill C-27, and why it did not pass <br>• Critiques of AIDA's scope and definitions <br>• Risk assessment across five AI technology categories |
  
 <!-- Future entries: add a new row above this comment.
